@@ -124,6 +124,7 @@ function setupLanguageSearch() {
     { name: "Java", aliases: ["java", "jav"] },
     { name: "TypeScript", aliases: ["ts", "typescript"] },
     { name: "C++", aliases: ["cpp", "c++", "cplusplus"] },
+    { name: "HTML", aliases: ["html", "htm"] },
     { name: "C#", aliases: ["csharp", "c#", "cs"] },
     { name: "PHP", aliases: ["php"] },
     { name: "Ruby", aliases: ["rb", "ruby"] },
